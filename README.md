@@ -1,6 +1,6 @@
 A simple movielist app built using React and Redux.
 
-### `yarn start`
+### `yarn start` or `npm start`
 Runs the app in the development mode.
 
 ### `yarn build`
